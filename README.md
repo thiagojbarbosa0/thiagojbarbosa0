@@ -80,53 +80,51 @@ A dependency-free C++17 benchmarking suite that measures CPU, memory, sorting, a
 <br>
 
 ## 🛠️ Tech Stack
-
-<table width="100%">
-<tr>
-<td align="center" valign="top" width="50%">
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,php&theme=dark" />
-
-</td>
-<td align="center" valign="top" width="50%">
-
-**Web**
-<img src="https://skillicons.dev/icons?i=html,css,react,laravel&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
-**Databases**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite,redis&theme=dark" /><br>
-<sub>SQL · Relational Database Modeling</sub>
-
-</td>
-<td align="center" valign="top" width="50%">
-
-**Tools & Environment**
-<img src="https://skillicons.dev/icons?i=git,linux,docker&theme=dark" /><br>
-<sub>Git · Linux · Docker · REST APIs · Pandas</sub>
-
-</td>
-</tr>
+<div align="center">
+<table width="90%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,php&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>Web</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,react,laravel&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgresql,sqlite,redis&theme=dark" /><br><br>
+      <sub>SQL · Relational Database Modeling</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>Tools & Environment</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,linux,docker&theme=dark" /><br><br>
+      <sub>Git · Linux · Docker · REST APIs · Pandas</sub>
+    </td>
+  </tr>
 </table>
-
+</div>
 <br>
 
-## 📊 GitHub Stats
+## 
+<div align="center">
 
+</div>
+<!--
+## 📊 GitHub Stats
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagojbarbosa0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojbarbosa0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
 </div>
+-->
+
 
 <br>
 
 <div align="center">
-<img src="https://i.pinimg.com/1200x/a2/c9/aa/a2c9aa19ef9a5b2efb9cdd01103774da.jpg" width="600" />
+<img src="https://i.pinimg.com/1200x/a2/c9/aa/a2c9aa19ef9a5b2efb9cdd01103774da.jpg" width="690" />
 </div>
 
 <br>
